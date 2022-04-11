@@ -39,5 +39,5 @@ A limitation of this data set would be the short amount of time in which it was 
   
 - What are some other possible tables and/or graphs that we could create?
   
-  An analysis and visual representation of the length of kickstarter campaigns could be beneficial to gaining a better understanding of how to ensure a successful campaign. A possible correlation between the length of campaign (time between the launch date and deadline date) and it's success or failure would be crucial to know when determining how to give a campaign the best chance for success. A visual representation comparing the success/failure rates of similar campaigns in different countries would also be useful. 
+An analysis and visual representation of the length of kickstarter campaigns could be beneficial to gaining a better understanding of how to ensure a successful campaign. A possible correlation between the length of campaign (time between the launch date and deadline date) and it's success or failure would be crucial to know when determining how to give a campaign the best chance for success. A visual representation comparing the success/failure rates of similar campaigns in different countries would also be useful. 
 
