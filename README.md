@@ -3,7 +3,7 @@
 
 ## Overview of Project and Purpose
 
-  This project entailed exploring a large data set in Excel, which was a comprehensive list of various Kickstarter campaign opportunities and their respective attributes and outcomes. The purpose was to familiarize oneself with combing through the data, sorting and filtering, using formulas, and creating visual representations which could then be presented to the client (Louise). The purpose of presenting the data to the client is for the client to be able to make a data driven decision on how to launch a successful kickstarter campaign.
+  This project entailed exploring a large data set in Excel, which was a comprehensive list of various Kickstarter campaign opportunities and their respective attributes and outcomes. The purpose was to familiarize oneself with combing through the data, sorting and filtering, using functions, and creating visual representations which could then be presented to the client (Louise). The purpose of presenting the data to the client is for the client to be able to make a data driven decision on how to launch a successful kickstarter campaign.
 
 ## Analysis and Challenges
 
@@ -34,7 +34,7 @@ The smaller the goal amount, the higher the percentage of successful campaigns. 
 
 - What are some limitations of this dataset?
 
-A limitation of this data set would be the short amount of time in which it was collected (2009-2017). Being the current year is 2022, it would be important to have fresher, more recent, data to work with.  
+A limitation of this data set would be the short amount of time in which it was collected (2009-2017). Being the current year is 2022, it would be important to have fresher, more recent, data to work with. Another limitation of the dataset is the limited scope. Additional data in relation to how the fundraising campaigns were ran (marketing strategies, who makes up each donor base, etc) would be helpful in additional analysis.
 
   
 - What are some other possible tables and/or graphs that we could create?
